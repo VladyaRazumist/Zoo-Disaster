@@ -30,9 +30,7 @@ class Main {
         }
        return false;
     }
-   public static boolean gavno(int i){
-       i=i+5; return true;
-   }
+  
 
     public static void main(String args[]) 
     { 
