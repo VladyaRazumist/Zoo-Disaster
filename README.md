@@ -1,4 +1,4 @@
-# Zoo-Disaster-
+# Zoo-Disaster
 A freak power outage at the zoo has caused all of the electric cage doors to malfunction and swing open...  All the animals are out and some of them are eating each other!
 t's a Zoo Disaster!
 Here is a list of zoo animals, and what they can eat
